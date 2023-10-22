@@ -1,3 +1,4 @@
+#ЯНЛОХ
 #автокликер
 import keyboard
 import mouse
